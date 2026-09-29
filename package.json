@@ -1,0 +1,33 @@
+{
+  "name": "oddscore",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acanfora78/Oddscore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/acanfora78/Oddscore/issues"
+  },
+  "homepage": "https://github.com/acanfora78/Oddscore#readme",
+  "dependencies": {
+    "framer-motion": "^13.4.5",
+    "i18next": "^26.4.2",
+    "lucide-react": "^1.48.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-i18next": "^17.0.15"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^6.1.1",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.1"
+  },
+  "private": true,
+  "type": "module"
+}
