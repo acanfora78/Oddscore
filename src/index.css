@@ -30,7 +30,7 @@
     background-color: var(--color-ink);
     background-image: linear-gradient(180deg, #05070d 0%, #080c1c 45%, #0d1330 100%);
     background-attachment: fixed;
-    overflow-x: hidden;
+    overflow-x: clip;
   }
   ::selection {
     background: rgba(0, 212, 255, 0.25);

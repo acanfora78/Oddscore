@@ -102,7 +102,7 @@ export default function ParticleBackground() {
   }, [])
 
   return (
-    <div aria-hidden="true" className="pointer-events-none fixed inset-0 -z-10">
+    <div aria-hidden="true" className="pointer-events-none fixed inset-0 -z-10 overflow-hidden">
       {/* soft teal / blue radial glows */}
       <div className="absolute -left-40 -top-40 h-[36rem] w-[36rem] rounded-full bg-[radial-gradient(circle,rgba(0,212,255,0.14),transparent_65%)] blur-2xl" />
       <div className="absolute -right-48 top-1/3 h-[40rem] w-[40rem] rounded-full bg-[radial-gradient(circle,rgba(56,97,251,0.14),transparent_65%)] blur-2xl" />

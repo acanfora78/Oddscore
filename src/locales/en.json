@@ -3,5 +3,230 @@
     "requestDemo": "Request Demo",
     "language": "Language",
     "home": "OddsCore home"
+  },
+  "hero": {
+    "label": "Enterprise Infrastructure Platform",
+    "line1": "Enterprise",
+    "line2": "Infrastructure",
+    "line3": "For Next-",
+    "line4": "Generation",
+    "line5": "Operators",
+    "description": "OddsCore is a complete end-to-end modular ecosystem developed by XCodeTech for operators, bookmakers, financial platforms and enterprise businesses requiring scalable, customizable infrastructure.",
+    "requestDemo": "Request Demo",
+    "explore": "Explore Platform",
+    "scroll": "Scroll to explore"
+  },
+  "company": {
+    "label": "The Company Behind GSystem",
+    "title": "Modern Software Engineering",
+    "titleMuted": "For Enterprise Operations",
+    "text": "XCodeTech S.H.P.K. is a specialized software house focused on designing and delivering end-to-end enterprise infrastructure solutions. Built for operators, bookmakers, financial platforms and enterprise businesses that demand reliability at scale.",
+    "officeLabel": "Registered Office",
+    "addressLine1": "Njesia administrative nr.5, Rruga Janush Huniadi",
+    "addressLine2": "Tiranë, Albania"
+  },
+  "abstract": {
+    "alt": "Abstract dark architectural form crossed by diagonal cyan light bars"
+  },
+  "backoffice": {
+    "label": "Modular Backoffice",
+    "title": "Complete Backoffice Control",
+    "titleMuted": "In One Unified Interface",
+    "text": "Manage every operational layer from a single modular dashboard. CRM, analytics, permissions, automation — fully integrated, fully customizable.",
+    "module": "Module",
+    "modules": [
+      { "title": "CRM", "text": "Customer relationship management with complete player profiles, segmentation and history." },
+      { "title": "Permissions", "text": "Role-based access control with granular, fully audited permissions for every team." },
+      { "title": "Analytics", "text": "Live charts & real-time reporting across every market, channel and brand." }
+    ]
+  },
+  "whiteLabel": {
+    "label": "White Label Ecosystem",
+    "title": "Launch Under Your Brand.",
+    "titleMuted": "Powered by Our Infrastructure.",
+    "text": "Deploy fully branded platforms in days, not months. Custom domains, responsive skins, identity systems — all running on OddsCore's core engine.",
+    "core": "Core Engine",
+    "brands": {
+      "betcore": "Sportsbook & betting platform",
+      "tradefx": "Financial trading desk",
+      "wagerx": "Live in-play wagering",
+      "sportspro": "Pro sports analytics"
+    }
+  },
+  "skins": {
+    "label": "Custom Sportsbook Front Skins",
+    "title": "Make Your Platform",
+    "titleMuted": "Stand Out.",
+    "text": "With our Custom Front Skin service, we transform your sportsbook into a unique visual experience aligned with your brand and designed to engage every user.",
+    "slides": [
+      { "label": "Your Brand · Live", "title": "", "alt": "Wall of sticky notes organised in To Do, Doing and Done columns" },
+      { "label": "Responsive · Cross-device", "title": "Desktop · Tablet · Mobile", "alt": "Open-space office with developers working at their desks" }
+    ],
+    "slideNav": "Show slide {{n}}",
+    "offerTitle": "What We Offer",
+    "offer": [
+      "Fully customized design with personalized colors, logos and layouts",
+      "Intuitive and responsive interfaces optimized for desktop and mobile",
+      "Seamless integration with your existing platform",
+      "Graphic updates and features always aligned with market needs"
+    ],
+    "whyTitle": "Why Choose Us",
+    "why": [
+      "Stand out from competitors with a unique interface",
+      "Increase user engagement and retention",
+      "Keep your sportsbook modern, high performing and secure"
+    ],
+    "tagline": "Turn your platform into a memorable experience.",
+    "cta": "Start Your Skin"
+  },
+  "integration": {
+    "label": "Sportsbook iFrame & API",
+    "title": "Two Powerful Ways",
+    "titleMuted": "To Integrate.",
+    "text": "Integrate our advanced Sportsbook solution into your website with two integration options designed for speed, flexibility, and performance.",
+    "iframe": {
+      "badge": "Fast Deploy",
+      "title": "iFrame Solution",
+      "text": "Launch your Sportsbook in minutes with a simple and fast integration process. Our iFrame setup provides a seamless user experience, requires minimal development effort, and allows you to go live quickly while maintaining reliability and performance.",
+      "cta": "Explore iFrame"
+    },
+    "api": {
+      "badge": "Full Control",
+      "title": "API Solution",
+      "text": "Take full control with our powerful API integration. Access real-time sports data, betting markets, odds, and dynamic content with maximum customization capabilities. Designed for scalability, flexibility, enhanced performance, and stronger SEO optimization.",
+      "cta": "Explore API"
+    },
+    "benefitsTitle": "Key Benefits",
+    "benefits": [
+      "Fast and easy implementation",
+      "Real-time data synchronization",
+      "Seamless user experience",
+      "Flexible customization options",
+      "Scalable architecture",
+      "SEO-friendly structure",
+      "High performance and reliability"
+    ]
+  },
+  "risk": {
+    "label": "Risk Engine",
+    "title": "Full-Spectrum Risk Control.",
+    "titleMuted": "In Real Time.",
+    "text": "OddsCore's risk engine gives operators complete visibility and control over exposure, liability, user profiling and market management — automated or manual, at any scale.",
+    "feed": "Position Feed",
+    "buy": "BUY",
+    "sell": "SELL",
+    "exposure": "Total Liability Exposure",
+    "updated": "Updated in real time",
+    "alerts": "Alert System",
+    "priority": {
+      "low": "Low Priority",
+      "med": "Med Priority",
+      "high": "High Priority"
+    },
+    "alertMessages": {
+      "liabilitySpike": "Liability spike on market {{market}}",
+      "autoSettlement": "Auto-settlement completed: {{count}} events",
+      "userFlagged": "User #{{id}} flagged for unusual pattern",
+      "limitReached": "Stake limit reached on market {{market}}",
+      "oddsShift": "Rapid odds movement detected on {{market}}"
+    },
+    "kpi": {
+      "activeLimits": "Active Limits",
+      "flaggedUsers": "Flagged Users",
+      "autoSettled": "Auto-Settled",
+      "manualReview": "Manual Review",
+      "systemLoad": "System Load"
+    },
+    "grid": "Multi-Market Grid"
+  },
+  "liveFeed": {
+    "label": "Live Feed Technology",
+    "title": "Ultra-Low Latency.",
+    "titleMuted": "Global Coverage. Zero Compromise.",
+    "text": "Prematch and live feeds aggregated from 200+ sources, delivered at sub-2ms latency with automatic failover and multi-feed redundancy.",
+    "stats": {
+      "latency": "Feed Latency",
+      "uptime": "Uptime SLA",
+      "sources": "Data Sources",
+      "events": "Events/Sec"
+    }
+  },
+  "cloud": {
+    "label": "Cloud Infrastructure",
+    "title": "Infrastructure That Scales",
+    "titleMuted": "Without Limits.",
+    "text": "Built on redundant cloud architecture with auto-scaling, real-time monitoring and enterprise-grade SLAs. Your platform grows without friction.",
+    "diagram": {
+      "auth": "oauth/jwt",
+      "core": "engine",
+      "cdn": "global",
+      "db": "Database Cluster",
+      "dbSub": "replicated · sharded",
+      "backup": "Backup",
+      "analytics": "Analytics"
+    },
+    "services": {
+      "apiGateway": "API Gateway",
+      "database": "Database Cluster",
+      "cache": "Cache Layer",
+      "cdn": "CDN Nodes",
+      "backup": "Backup Systems",
+      "loadBalancer": "Load Balancer"
+    },
+    "status": {
+      "healthy": "Healthy",
+      "active": "Active"
+    }
+  },
+  "services": {
+    "label": "Services",
+    "title": "End-to-end engineering,",
+    "titleMuted": "from architecture to operations.",
+    "items": [
+      { "title": "Custom Software Development", "text": "Bespoke enterprise systems built to exact specification." },
+      { "title": "Mobile Applications", "text": "Native and cross-platform apps for operators and end users." },
+      { "title": "API Integration", "text": "Connect any third-party system through robust API architecture." },
+      { "title": "DevOps & Cloud", "text": "Infrastructure setup, CI/CD pipelines and ongoing operations." },
+      { "title": "Technology Consulting", "text": "Strategic guidance on platform architecture and scaling." },
+      { "title": "24/7 Enterprise Support", "text": "Dedicated support teams for mission-critical systems." }
+    ]
+  },
+  "cta": {
+    "label": "Ready to Build",
+    "line1": "Build the Future",
+    "line2": "of",
+    "line3": "Digital",
+    "line4": "Infrastructure.",
+    "text": "Enterprise technology engineered for operators who demand reliability, scale and control.",
+    "button": "Schedule a Demo"
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "demo": {
+    "title": "Request a Demo",
+    "subtitle": "Tell us about your project and our team will get back to you within one business day.",
+    "close": "Close",
+    "name": "Name",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Phone",
+    "interest": "Type of interest",
+    "interestPlaceholder": "Select an option",
+    "interests": {
+      "iframe": "Sportsbook iFrame",
+      "api": "Sportsbook API",
+      "whiteLabel": "White Label",
+      "skin": "Custom Skin",
+      "other": "Other"
+    },
+    "message": "Message",
+    "submit": "Send Request",
+    "successTitle": "Request received",
+    "successText": "Thank you! Our team will contact you shortly to schedule your demo.",
+    "done": "Close"
   }
 }
